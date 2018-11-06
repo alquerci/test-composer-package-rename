@@ -51,3 +51,9 @@ Rename a package procedure revised
 2. Resubmitting the package to packagist using the new name
 3. Mark the old package as "Abandoned" on packagist, and use the new name in the form so that people get pointed to it when they install with the old name
 4. Trigger manually update for old package name.
+
+Packages on packagist
+---------------------
+
+* https://packagist.org/packages/alquerci/test-composer-package-rename
+* https://packagist.org/packages/alquerci/test-composer-package-rename-one
