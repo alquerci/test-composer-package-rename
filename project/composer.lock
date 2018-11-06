@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cc85c3f28c0334763f5da14c08233fa5",
+    "packages": [
+        {
+            "name": "alquerci/test-composer-package-rename",
+            "version": "v0.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alquerci/test-composer-package-rename.git",
+                "reference": "19e37305ed612eae20dfa8cb6d995512b11860e0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alquerci/test-composer-package-rename/zipball/19e37305ed612eae20dfa8cb6d995512b11860e0",
+                "reference": "19e37305ed612eae20dfa8cb6d995512b11860e0",
+                "shasum": ""
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "0.1-dev"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Alexandre Quercia",
+                    "email": "alquerci@email.com"
+                }
+            ],
+            "description": "Test rename package",
+            "time": "2018-11-05T23:59:05+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

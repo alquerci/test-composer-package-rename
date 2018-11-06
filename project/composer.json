@@ -1,0 +1,14 @@
+{
+    "name": "alquerci/marker",
+    "type": "project",
+    "require": {
+        "alquerci/test-composer-package-rename": "^0.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandre Quercia",
+            "email": "alquerci@email.com"
+        }
+    ]
+}
