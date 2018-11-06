@@ -4,26 +4,26 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc85c3f28c0334763f5da14c08233fa5",
+    "content-hash": "e0d3beb76b19fa4e482fe2071032729a",
     "packages": [
         {
             "name": "alquerci/test-composer-package-rename",
-            "version": "v0.1.0",
+            "version": "v0.3.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/alquerci/test-composer-package-rename.git",
-                "reference": "19e37305ed612eae20dfa8cb6d995512b11860e0"
+                "url": "https://github.com/alquerci/test-composer-package-rename-one.git",
+                "reference": "73a90acc1f269bacf2d1623d7f6c5c09cf99e91a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/alquerci/test-composer-package-rename/zipball/19e37305ed612eae20dfa8cb6d995512b11860e0",
-                "reference": "19e37305ed612eae20dfa8cb6d995512b11860e0",
+                "url": "https://api.github.com/repos/alquerci/test-composer-package-rename-one/zipball/73a90acc1f269bacf2d1623d7f6c5c09cf99e91a",
+                "reference": "73a90acc1f269bacf2d1623d7f6c5c09cf99e91a",
                 "shasum": ""
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "0.1-dev"
+                    "dev-master": "0.3-dev"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -37,7 +37,7 @@
                 }
             ],
             "description": "Test rename package",
-            "time": "2018-11-05T23:59:05+00:00"
+            "time": "2018-11-06T00:29:38+00:00"
         }
     ],
     "packages-dev": [],

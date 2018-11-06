@@ -2,7 +2,7 @@
     "name": "alquerci/marker",
     "type": "project",
     "require": {
-        "alquerci/test-composer-package-rename": "^0.1"
+        "alquerci/test-composer-package-rename": "^0.3"
     },
     "license": "MIT",
     "authors": [
