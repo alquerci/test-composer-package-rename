@@ -20,3 +20,12 @@ Resubmitting the package to packagist
 ### Actual
 
 Got a 403 on the webhook (fixed with an update)
+
+Action
+------
+
+Push new commits and tag
+
+### Actual
+
+On packagist the new package has been auto-updated but not the old one.
