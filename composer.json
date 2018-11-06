@@ -1,5 +1,5 @@
 {
-    "name": "alquerci/test-composer-package-rename",
+    "name": "alquerci/test-composer-package-rename-one",
     "description": "Test rename package",
     "type": "library",
     "license": "MIT",
